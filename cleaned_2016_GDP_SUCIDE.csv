@@ -1,321 +1,323 @@
 index,CountryName,sucideandgdp,color_change
 0,AfghanistanSuicideRate,4.7,0
-1,AfghanistanGDP,547.2281102000001,1
-2,AngolaSuicideRate,4.7,0
-3,AngolaGDP,3506.072885,1
-4,AlbaniaSuicideRate,6.3,0
-5,AlbaniaGDP,4124.108543,1
-6,United Arab EmiratesSuicideRate,2.8,0
-7,United Arab EmiratesGDP,38141.84676,1
-8,ArgentinaSuicideRate,9.2,0
-9,ArgentinaGDP,12790.242470000001,1
-10,ArmeniaSuicideRate,6.6,0
-11,ArmeniaGDP,3591.829276,1
-12,Antigua and BarbudaSuicideRate,0.5,0
-13,Antigua and BarbudaGDP,15494.30547,1
-14,AustraliaSuicideRate,13.2,0
-15,AustraliaGDP,50019.967769999996,1
-16,AustriaSuicideRate,15.6,0
-17,AustriaGDP,45103.32981,1
-18,AzerbaijanSuicideRate,2.6,0
-19,AzerbaijanGDP,3880.7387310000004,1
-20,BurundiSuicideRate,9.1,0
-21,BurundiGDP,282.1496815,1
-22,BelgiumSuicideRate,20.7,0
-23,BelgiumGDP,41449.09736,1
-24,BeninSuicideRate,9.9,0
-25,BeninGDP,788.5491965,1
-26,Burkina FasoSuicideRate,7.7,0
-27,Burkina FasoGDP,583.8326203,1
-28,BangladeshSuicideRate,5.9,0
-29,BangladeshGDP,1401.620628,1
-30,BulgariaSuicideRate,11.5,0
-31,BulgariaGDP,7469.455637999999,1
-32,BahrainSuicideRate,5.9,0
-33,BahrainGDP,22619.11667,1
-34,Bosnia and HerzegovinaSuicideRate,8.8,0
-35,Bosnia and HerzegovinaGDP,4994.68314,1
-36,BelarusSuicideRate,26.2,0
-37,BelarusGDP,5022.626643,1
-38,BelizeSuicideRate,4.7,0
-39,BelizeGDP,4904.034338,1
-40,BrazilSuicideRate,6.5,0
-41,BrazilGDP,8712.887044,1
-42,BarbadosSuicideRate,0.8,0
-43,BarbadosGDP,15847.142719999998,1
-44,Brunei DarussalamSuicideRate,4.6,0
-45,Brunei DarussalamGDP,27157.346230000003,1
-46,BhutanSuicideRate,11.4,0
-47,BhutanGDP,3012.961401,1
-48,BotswanaSuicideRate,9.3,0
-49,BotswanaGDP,7243.856017,1
-50,Central African RepublicSuicideRate,7.7,0
-51,Central African RepublicGDP,406.5319611,1
-52,CanadaSuicideRate,12.5,0
-53,CanadaGDP,42279.900819999995,1
-54,SwitzerlandSuicideRate,17.2,0
-55,SwitzerlandGDP,80037.50304,1
-56,ChileSuicideRate,10.6,0
-57,ChileGDP,13748.0884,1
-58,ChinaSuicideRate,9.7,0
-59,ChinaGDP,8078.790473999999,1
-60,CameroonSuicideRate,12.2,0
-61,CameroonGDP,1363.403851,1
-62,ColombiaSuicideRate,7.2,0
-63,ColombiaGDP,5871.223524,1
-64,ComorosSuicideRate,6.8,0
-65,ComorosGDP,1287.420965,1
-66,Cabo VerdeSuicideRate,11.3,0
-67,Cabo VerdeGDP,3130.963385,1
-68,Costa RicaSuicideRate,7.9,0
-69,Costa RicaGDP,11666.45661,1
-70,CubaSuicideRate,13.9,0
-71,CubaGDP,8060.795886,1
-72,CyprusSuicideRate,5.3,0
-73,CyprusGDP,24019.13787,1
-74,GermanySuicideRate,13.6,0
-75,GermanyGDP,42443.46507,1
-76,DjiboutiSuicideRate,6.7,0
-77,DjiboutiGDP,1898.8759899999998,1
-78,DenmarkSuicideRate,12.8,0
-79,DenmarkGDP,54467.10452000001,1
-80,Dominican RepublicSuicideRate,9.9,0
-81,Dominican RepublicGDP,6957.564506999999,1
-82,AlgeriaSuicideRate,3.2,0
-83,AlgeriaGDP,3948.811897,1
-84,EcuadorSuicideRate,7.1,0
-85,EcuadorGDP,6060.093329,1
-86,EritreaSuicideRate,7.9,0
-87,EritreaGDP,,1
-88,SpainSuicideRate,8.7,0
-89,SpainGDP,26622.29914,1
-90,EstoniaSuicideRate,17.8,0
-91,EstoniaGDP,18228.05825,1
-92,EthiopiaSuicideRate,7.2,0
-93,EthiopiaGDP,716.8800387,1
-94,FinlandSuicideRate,15.9,0
-95,FinlandGDP,43493.41934,1
-96,FijiSuicideRate,5.0,0
-97,FijiGDP,5647.347365,1
-98,FranceSuicideRate,17.7,0
-99,FranceGDP,36962.22229,1
-100,GabonSuicideRate,7.1,0
-101,GabonGDP,6979.709196,1
-102,United KingdomSuicideRate,8.9,0
-103,United KingdomGDP,40539.919610000004,1
-104,GeorgiaSuicideRate,8.2,0
-105,GeorgiaGDP,3857.281728,1
-106,GhanaSuicideRate,5.4,0
-107,GhanaGDP,1931.3894699999998,1
-108,GuineaSuicideRate,6.3,0
-109,GuineaGDP,733.0207588,1
-110,Guinea-BissauSuicideRate,4.0,0
-111,Guinea-BissauGDP,661.0076548999999,1
-112,Equatorial GuineaSuicideRate,16.4,0
-113,Equatorial GuineaGDP,9244.051798,1
-114,GreeceSuicideRate,5.0,0
-115,GreeceGDP,18116.459619999998,1
-116,GrenadaSuicideRate,1.7,0
-117,GrenadaGDP,9628.347487000001,1
-118,GuatemalaSuicideRate,2.7,0
-119,GuatemalaGDP,4140.590064,1
-120,GuyanaSuicideRate,29.2,0
-121,GuyanaGDP,4542.622067,1
-122,HondurasSuicideRate,2.9,0
-123,HondurasGDP,2326.297027,1
-124,CroatiaSuicideRate,16.5,0
-125,CroatiaGDP,12366.82154,1
-126,HaitiSuicideRate,11.7,0
-127,HaitiGDP,735.7551202000001,1
-128,HungarySuicideRate,19.1,0
-129,HungaryGDP,12839.58454,1
-130,IndonesiaSuicideRate,3.4,0
-131,IndonesiaGDP,3562.845756,1
-132,IndiaSuicideRate,16.3,0
-133,IndiaGDP,1729.268021,1
-134,IrelandSuicideRate,11.5,0
-135,IrelandGDP,63197.082370000004,1
-136,IraqSuicideRate,3.0,0
-137,IraqGDP,4649.468115,1
-138,IcelandSuicideRate,14.0,0
-139,IcelandGDP,61757.94931,1
-140,IsraelSuicideRate,5.4,0
-141,IsraelGDP,37371.62691,1
-142,ItalySuicideRate,8.2,0
-143,ItalyGDP,30830.922660000004,1
-144,JamaicaSuicideRate,2.2,0
-145,JamaicaGDP,4842.045011,1
-146,JordanSuicideRate,2.9,0
-147,JordanGDP,4109.5748189999995,1
-148,JapanSuicideRate,18.5,0
-149,JapanGDP,38794.33094,1
-150,KazakhstanSuicideRate,22.5,0
-151,KazakhstanGDP,7714.841844,1
-152,KenyaSuicideRate,3.2,0
-153,KenyaGDP,1410.527571,1
-154,CambodiaSuicideRate,5.3,0
-155,CambodiaGDP,1269.591257,1
-156,KiribatiSuicideRate,14.4,0
-157,KiribatiGDP,1584.807446,1
-158,KuwaitSuicideRate,2.3,0
-159,KuwaitGDP,27653.1644,1
-160,LebanonSuicideRate,3.3,0
-161,LebanonGDP,7634.946543999999,1
-162,LiberiaSuicideRate,6.8,0
-163,LiberiaGDP,714.6233922,1
-164,LibyaSuicideRate,5.2,0
-165,LibyaGDP,4038.970683,1
-166,Sri LankaSuicideRate,14.6,0
-167,Sri LankaGDP,3886.2915020000005,1
-168,LesothoSuicideRate,21.2,0
-169,LesothoGDP,1119.719758,1
-170,LithuaniaSuicideRate,31.9,0
-171,LithuaniaGDP,14982.53305,1
-172,LuxembourgSuicideRate,13.5,0
-173,LuxembourgGDP,101305.5277,1
-174,LatviaSuicideRate,21.2,0
-175,LatviaGDP,14133.68295,1
-176,MoroccoSuicideRate,2.9,0
-177,MoroccoGDP,2897.66344,1
-178,MadagascarSuicideRate,3.9,0
-179,MadagascarGDP,400.0362751,1
-180,MaldivesSuicideRate,2.3,0
-181,MaldivesGDP,9282.723553,1
-182,MexicoSuicideRate,5.1,0
-183,MexicoGDP,8739.142471,1
-184,MaliSuicideRate,4.8,0
-185,MaliGDP,779.874933,1
-186,MaltaSuicideRate,7.5,0
-187,MaltaGDP,25128.93738,1
-188,MyanmarSuicideRate,7.8,0
-189,MyanmarGDP,1192.4953380000002,1
-190,MontenegroSuicideRate,10.3,0
-191,MontenegroGDP,7028.9365769999995,1
-192,MongoliaSuicideRate,13.0,0
-193,MongoliaGDP,3660.1507460000003,1
-194,MozambiqueSuicideRate,4.9,0
-195,MozambiqueGDP,391.55289480000005,1
-196,MauritaniaSuicideRate,4.4,0
-197,MauritaniaGDP,1135.5586460000002,1
-198,MauritiusSuicideRate,7.8,0
-199,MauritiusGDP,9681.618567,1
-200,MalawiSuicideRate,3.7,0
-201,MalawiGDP,315.7773264,1
-202,MalaysiaSuicideRate,5.5,0
-203,MalaysiaGDP,9671.024717,1
-204,NamibiaSuicideRate,8.7,0
-205,NamibiaGDP,4786.235303,1
-206,NigerSuicideRate,4.6,0
-207,NigerGDP,362.13113230000005,1
-208,NigeriaSuicideRate,9.5,0
-209,NigeriaGDP,2175.99967,1
-210,NicaraguaSuicideRate,12.2,0
-211,NicaraguaGDP,2107.5742379999997,1
-212,NetherlandsSuicideRate,12.6,0
-213,NetherlandsGDP,46007.85292,1
-214,NorwaySuicideRate,12.2,0
-215,NorwayGDP,70941.52527,1
-216,NepalSuicideRate,8.8,0
-217,NepalGDP,777.1475955,1
-218,New ZealandSuicideRate,12.1,0
-219,New ZealandGDP,40026.8522,1
-220,OmanSuicideRate,3.9,0
-221,OmanGDP,14721.647330000002,1
-222,PakistanSuicideRate,2.9,0
-223,PakistanGDP,1368.454326,1
-224,PanamaSuicideRate,4.3,0
-225,PanamaGDP,14356.32405,1
-226,PeruSuicideRate,4.9,0
-227,PeruGDP,6205.3709,1
-228,PhilippinesSuicideRate,3.2,0
-229,PhilippinesGDP,2941.21204,1
-230,Papua New GuineaSuicideRate,6.0,0
-231,Papua New GuineaGDP,2509.629007,1
-232,PolandSuicideRate,16.2,0
-233,PolandGDP,12431.575420000001,1
-234,PortugalSuicideRate,14.0,0
-235,PortugalGDP,19977.39849,1
-236,ParaguaySuicideRate,9.5,0
-237,ParaguayGDP,5319.410218,1
-238,QatarSuicideRate,6.6,0
-239,QatarGDP,57163.06099,1
-240,RomaniaSuicideRate,10.4,0
-241,RomaniaGDP,9567.097781999999,1
-242,Russian FederationSuicideRate,31.0,0
-243,Russian FederationGDP,8745.375116,1
-244,RwandaSuicideRate,6.7,0
-245,RwandaGDP,726.353049,1
-246,Saudi ArabiaSuicideRate,3.2,0
-247,Saudi ArabiaGDP,19879.29753,1
-248,SudanSuicideRate,8.1,0
-249,SudanGDP,2398.10188,1
-250,SenegalSuicideRate,6.0,0
-251,SenegalGDP,1269.040407,1
-252,SingaporeSuicideRate,9.9,0
-253,SingaporeGDP,56724.17039,1
-254,Solomon IslandsSuicideRate,4.7,0
-255,Solomon IslandsGDP,1990.031497,1
-256,Sierra LeoneSuicideRate,9.7,0
-257,Sierra LeoneGDP,501.41571289999996,1
-258,El SalvadorSuicideRate,13.7,0
-259,El SalvadorGDP,3800.122181,1
-260,SomaliaSuicideRate,4.7,0
-261,SomaliaGDP,295.9336538,1
-262,SerbiaSuicideRate,15.6,0
-263,SerbiaGDP,5756.381194,1
-264,South SudanSuicideRate,3.7,0
-265,South SudanGDP,283.4878017,1
-266,Sao Tome and PrincipeSuicideRate,2.3,0
-267,Sao Tome and PrincipeGDP,1710.1339480000001,1
-268,SurinameSuicideRate,22.8,0
-269,SurinameGDP,5606.712075,1
-270,SloveniaSuicideRate,18.6,0
-271,SloveniaGDP,21617.57985,1
-272,SwedenSuicideRate,14.8,0
-273,SwedenGDP,51617.54035,1
-274,EswatiniSuicideRate,13.3,0
-275,EswatiniGDP,3426.8265969999998,1
-276,SeychellesSuicideRate,9.3,0
-277,SeychellesGDP,15077.83902,1
-278,Syrian Arab RepublicSuicideRate,1.9,0
-279,Syrian Arab RepublicGDP,,1
-280,ChadSuicideRate,8.8,0
-281,ChadGDP,692.9785958,1
-282,TogoSuicideRate,9.6,0
-283,TogoGDP,587.8744094,1
-284,ThailandSuicideRate,14.4,0
-285,ThailandGDP,5978.611454,1
-286,TajikistanSuicideRate,2.5,0
-287,TajikistanGDP,802.5180041,1
-288,TurkmenistanSuicideRate,6.7,0
-289,TurkmenistanGDP,6389.548408,1
-290,Timor-LesteSuicideRate,4.6,0
-291,Timor-LesteGDP,2053.273798,1
-292,TongaSuicideRate,3.5,0
-293,TongaGDP,3966.1565200000005,1
-294,Trinidad and TobagoSuicideRate,13.6,0
-295,Trinidad and TobagoGDP,15786.120519999999,1
-296,TunisiaSuicideRate,3.4,0
-297,TunisiaGDP,3698.565075,1
-298,TurkeySuicideRate,7.3,0
-299,TurkeyGDP,10820.63384,1
-300,UgandaSuicideRate,9.9,0
-301,UgandaGDP,608.7057351,1
-302,UkraineSuicideRate,22.4,0
-303,UkraineGDP,2187.731997,1
-304,UruguaySuicideRate,18.4,0
-305,UruguayGDP,15387.144030000001,1
-306,United States of AmericaSuicideRate,15.3,0
-307,United States of AmericaGDP,57904.201960000006,1
-308,UzbekistanSuicideRate,7.4,0
-309,UzbekistanGDP,2567.799418,1
-310,VanuatuSuicideRate,4.5,0
-311,VanuatuGDP,2830.965284,1
-312,SamoaSuicideRate,4.4,0
-313,SamoaGDP,4043.6940000000004,1
-314,South AfricaSuicideRate,11.6,0
-315,South AfricaGDP,5272.627749,1
-316,ZambiaSuicideRate,6.1,0
-317,ZambiaGDP,1280.578447,1
-318,ZimbabweSuicideRate,10.7,0
-319,ZimbabweGDP,1464.583529,1
+1,AfghanistanGDP,0.5472281102000001,1
+2,Afghanistan_1SuicideRate,4.7,0
+3,Afghanistan_1GDP,0.5472281102000001,1
+4,AngolaSuicideRate,4.7,0
+5,AngolaGDP,3.506072885,1
+6,AlbaniaSuicideRate,6.3,0
+7,AlbaniaGDP,4.124108543,1
+8,United Arab EmiratesSuicideRate,2.8,0
+9,United Arab EmiratesGDP,38.14184676,1
+10,ArgentinaSuicideRate,9.2,0
+11,ArgentinaGDP,12.79024247,1
+12,ArmeniaSuicideRate,6.6,0
+13,ArmeniaGDP,3.591829276,1
+14,Antigua and BarbudaSuicideRate,0.5,0
+15,Antigua and BarbudaGDP,15.494305469999999,1
+16,AustraliaSuicideRate,13.2,0
+17,AustraliaGDP,50.019967769999994,1
+18,AustriaSuicideRate,15.6,0
+19,AustriaGDP,45.103329810000005,1
+20,AzerbaijanSuicideRate,2.6,0
+21,AzerbaijanGDP,3.8807387310000006,1
+22,BurundiSuicideRate,9.1,0
+23,BurundiGDP,0.28214968149999997,1
+24,BelgiumSuicideRate,20.7,0
+25,BelgiumGDP,41.44909736,1
+26,BeninSuicideRate,9.9,0
+27,BeninGDP,0.7885491965,1
+28,Burkina FasoSuicideRate,7.7,0
+29,Burkina FasoGDP,0.5838326203,1
+30,BangladeshSuicideRate,5.9,0
+31,BangladeshGDP,1.4016206279999999,1
+32,BulgariaSuicideRate,11.5,0
+33,BulgariaGDP,7.4694556379999995,1
+34,BahrainSuicideRate,5.9,0
+35,BahrainGDP,22.61911667,1
+36,Bosnia and HerzegovinaSuicideRate,8.8,0
+37,Bosnia and HerzegovinaGDP,4.99468314,1
+38,BelarusSuicideRate,26.2,0
+39,BelarusGDP,5.022626643,1
+40,BelizeSuicideRate,4.7,0
+41,BelizeGDP,4.904034338000001,1
+42,BrazilSuicideRate,6.5,0
+43,BrazilGDP,8.712887043999999,1
+44,BarbadosSuicideRate,0.8,0
+45,BarbadosGDP,15.847142719999997,1
+46,Brunei DarussalamSuicideRate,4.6,0
+47,Brunei DarussalamGDP,27.15734623,1
+48,BhutanSuicideRate,11.4,0
+49,BhutanGDP,3.012961401,1
+50,BotswanaSuicideRate,9.3,0
+51,BotswanaGDP,7.243856017,1
+52,Central African RepublicSuicideRate,7.7,0
+53,Central African RepublicGDP,0.4065319611,1
+54,CanadaSuicideRate,12.5,0
+55,CanadaGDP,42.279900819999995,1
+56,SwitzerlandSuicideRate,17.2,0
+57,SwitzerlandGDP,80.03750303999999,1
+58,ChileSuicideRate,10.6,0
+59,ChileGDP,13.7480884,1
+60,ChinaSuicideRate,9.7,0
+61,ChinaGDP,8.078790474,1
+62,CameroonSuicideRate,12.2,0
+63,CameroonGDP,1.363403851,1
+64,ColombiaSuicideRate,7.2,0
+65,ColombiaGDP,5.871223524,1
+66,ComorosSuicideRate,6.8,0
+67,ComorosGDP,1.287420965,1
+68,Cabo VerdeSuicideRate,11.3,0
+69,Cabo VerdeGDP,3.130963385,1
+70,Costa RicaSuicideRate,7.9,0
+71,Costa RicaGDP,11.66645661,1
+72,CubaSuicideRate,13.9,0
+73,CubaGDP,8.060795886,1
+74,CyprusSuicideRate,5.3,0
+75,CyprusGDP,24.019137869999998,1
+76,GermanySuicideRate,13.6,0
+77,GermanyGDP,42.443465069999995,1
+78,DjiboutiSuicideRate,6.7,0
+79,DjiboutiGDP,1.8988759899999998,1
+80,DenmarkSuicideRate,12.8,0
+81,DenmarkGDP,54.46710452000001,1
+82,Dominican RepublicSuicideRate,9.9,0
+83,Dominican RepublicGDP,6.957564506999999,1
+84,AlgeriaSuicideRate,3.2,0
+85,AlgeriaGDP,3.948811897,1
+86,EcuadorSuicideRate,7.1,0
+87,EcuadorGDP,6.060093329,1
+88,EritreaSuicideRate,7.9,0
+89,EritreaGDP,,1
+90,SpainSuicideRate,8.7,0
+91,SpainGDP,26.62229914,1
+92,EstoniaSuicideRate,17.8,0
+93,EstoniaGDP,18.228058249999997,1
+94,EthiopiaSuicideRate,7.2,0
+95,EthiopiaGDP,0.7168800387,1
+96,FinlandSuicideRate,15.9,0
+97,FinlandGDP,43.49341934,1
+98,FijiSuicideRate,5.0,0
+99,FijiGDP,5.647347365,1
+100,FranceSuicideRate,17.7,0
+101,FranceGDP,36.96222229,1
+102,GabonSuicideRate,7.1,0
+103,GabonGDP,6.979709196,1
+104,United KingdomSuicideRate,8.9,0
+105,United KingdomGDP,40.539919610000005,1
+106,GeorgiaSuicideRate,8.2,0
+107,GeorgiaGDP,3.857281728,1
+108,GhanaSuicideRate,5.4,0
+109,GhanaGDP,1.9313894699999998,1
+110,GuineaSuicideRate,6.3,0
+111,GuineaGDP,0.7330207588,1
+112,Guinea-BissauSuicideRate,4.0,0
+113,Guinea-BissauGDP,0.6610076548999999,1
+114,Equatorial GuineaSuicideRate,16.4,0
+115,Equatorial GuineaGDP,9.244051798000001,1
+116,GreeceSuicideRate,5.0,0
+117,GreeceGDP,18.116459619999997,1
+118,GrenadaSuicideRate,1.7,0
+119,GrenadaGDP,9.628347487000001,1
+120,GuatemalaSuicideRate,2.7,0
+121,GuatemalaGDP,4.140590064,1
+122,GuyanaSuicideRate,29.2,0
+123,GuyanaGDP,4.542622067,1
+124,HondurasSuicideRate,2.9,0
+125,HondurasGDP,2.326297027,1
+126,CroatiaSuicideRate,16.5,0
+127,CroatiaGDP,12.36682154,1
+128,HaitiSuicideRate,11.7,0
+129,HaitiGDP,0.7357551202000001,1
+130,HungarySuicideRate,19.1,0
+131,HungaryGDP,12.83958454,1
+132,IndonesiaSuicideRate,3.4,0
+133,IndonesiaGDP,3.562845756,1
+134,IndiaSuicideRate,16.3,0
+135,IndiaGDP,1.729268021,1
+136,IrelandSuicideRate,11.5,0
+137,IrelandGDP,63.197082370000004,1
+138,IraqSuicideRate,3.0,0
+139,IraqGDP,4.6494681149999995,1
+140,IcelandSuicideRate,14.0,0
+141,IcelandGDP,61.75794931,1
+142,IsraelSuicideRate,5.4,0
+143,IsraelGDP,37.371626909999996,1
+144,ItalySuicideRate,8.2,0
+145,ItalyGDP,30.830922660000002,1
+146,JamaicaSuicideRate,2.2,0
+147,JamaicaGDP,4.842045011,1
+148,JordanSuicideRate,2.9,0
+149,JordanGDP,4.109574819,1
+150,JapanSuicideRate,18.5,0
+151,JapanGDP,38.79433094,1
+152,KazakhstanSuicideRate,22.5,0
+153,KazakhstanGDP,7.7148418439999995,1
+154,KenyaSuicideRate,3.2,0
+155,KenyaGDP,1.410527571,1
+156,CambodiaSuicideRate,5.3,0
+157,CambodiaGDP,1.269591257,1
+158,KiribatiSuicideRate,14.4,0
+159,KiribatiGDP,1.5848074460000001,1
+160,KuwaitSuicideRate,2.3,0
+161,KuwaitGDP,27.6531644,1
+162,LebanonSuicideRate,3.3,0
+163,LebanonGDP,7.634946543999999,1
+164,LiberiaSuicideRate,6.8,0
+165,LiberiaGDP,0.7146233922,1
+166,LibyaSuicideRate,5.2,0
+167,LibyaGDP,4.038970683,1
+168,Sri LankaSuicideRate,14.6,0
+169,Sri LankaGDP,3.8862915020000006,1
+170,LesothoSuicideRate,21.2,0
+171,LesothoGDP,1.119719758,1
+172,LithuaniaSuicideRate,31.9,0
+173,LithuaniaGDP,14.98253305,1
+174,LuxembourgSuicideRate,13.5,0
+175,LuxembourgGDP,101.3055277,1
+176,LatviaSuicideRate,21.2,0
+177,LatviaGDP,14.13368295,1
+178,MoroccoSuicideRate,2.9,0
+179,MoroccoGDP,2.8976634399999996,1
+180,MadagascarSuicideRate,3.9,0
+181,MadagascarGDP,0.4000362751,1
+182,MaldivesSuicideRate,2.3,0
+183,MaldivesGDP,9.282723553,1
+184,MexicoSuicideRate,5.1,0
+185,MexicoGDP,8.739142471,1
+186,MaliSuicideRate,4.8,0
+187,MaliGDP,0.7798749330000001,1
+188,MaltaSuicideRate,7.5,0
+189,MaltaGDP,25.12893738,1
+190,MyanmarSuicideRate,7.8,0
+191,MyanmarGDP,1.192495338,1
+192,MontenegroSuicideRate,10.3,0
+193,MontenegroGDP,7.028936577,1
+194,MongoliaSuicideRate,13.0,0
+195,MongoliaGDP,3.6601507460000002,1
+196,MozambiqueSuicideRate,4.9,0
+197,MozambiqueGDP,0.39155289480000005,1
+198,MauritaniaSuicideRate,4.4,0
+199,MauritaniaGDP,1.1355586460000002,1
+200,MauritiusSuicideRate,7.8,0
+201,MauritiusGDP,9.681618567,1
+202,MalawiSuicideRate,3.7,0
+203,MalawiGDP,0.3157773264,1
+204,MalaysiaSuicideRate,5.5,0
+205,MalaysiaGDP,9.671024717,1
+206,NamibiaSuicideRate,8.7,0
+207,NamibiaGDP,4.786235303000001,1
+208,NigerSuicideRate,4.6,0
+209,NigerGDP,0.36213113230000005,1
+210,NigeriaSuicideRate,9.5,0
+211,NigeriaGDP,2.17599967,1
+212,NicaraguaSuicideRate,12.2,0
+213,NicaraguaGDP,2.1075742379999998,1
+214,NetherlandsSuicideRate,12.6,0
+215,NetherlandsGDP,46.00785292,1
+216,NorwaySuicideRate,12.2,0
+217,NorwayGDP,70.94152527,1
+218,NepalSuicideRate,8.8,0
+219,NepalGDP,0.7771475955,1
+220,New ZealandSuicideRate,12.1,0
+221,New ZealandGDP,40.0268522,1
+222,OmanSuicideRate,3.9,0
+223,OmanGDP,14.721647330000001,1
+224,PakistanSuicideRate,2.9,0
+225,PakistanGDP,1.368454326,1
+226,PanamaSuicideRate,4.3,0
+227,PanamaGDP,14.35632405,1
+228,PeruSuicideRate,4.9,0
+229,PeruGDP,6.2053709,1
+230,PhilippinesSuicideRate,3.2,0
+231,PhilippinesGDP,2.94121204,1
+232,Papua New GuineaSuicideRate,6.0,0
+233,Papua New GuineaGDP,2.509629007,1
+234,PolandSuicideRate,16.2,0
+235,PolandGDP,12.431575420000001,1
+236,PortugalSuicideRate,14.0,0
+237,PortugalGDP,19.97739849,1
+238,ParaguaySuicideRate,9.5,0
+239,ParaguayGDP,5.319410218,1
+240,QatarSuicideRate,6.6,0
+241,QatarGDP,57.16306099,1
+242,RomaniaSuicideRate,10.4,0
+243,RomaniaGDP,9.567097782,1
+244,Russian FederationSuicideRate,31.0,0
+245,Russian FederationGDP,8.745375116,1
+246,RwandaSuicideRate,6.7,0
+247,RwandaGDP,0.7263530490000001,1
+248,Saudi ArabiaSuicideRate,3.2,0
+249,Saudi ArabiaGDP,19.87929753,1
+250,SudanSuicideRate,8.1,0
+251,SudanGDP,2.39810188,1
+252,SenegalSuicideRate,6.0,0
+253,SenegalGDP,1.2690404069999999,1
+254,SingaporeSuicideRate,9.9,0
+255,SingaporeGDP,56.72417039,1
+256,Solomon IslandsSuicideRate,4.7,0
+257,Solomon IslandsGDP,1.990031497,1
+258,Sierra LeoneSuicideRate,9.7,0
+259,Sierra LeoneGDP,0.5014157129,1
+260,El SalvadorSuicideRate,13.7,0
+261,El SalvadorGDP,3.8001221810000003,1
+262,SomaliaSuicideRate,4.7,0
+263,SomaliaGDP,0.29593365380000003,1
+264,SerbiaSuicideRate,15.6,0
+265,SerbiaGDP,5.756381193999999,1
+266,South SudanSuicideRate,3.7,0
+267,South SudanGDP,0.2834878017,1
+268,Sao Tome and PrincipeSuicideRate,2.3,0
+269,Sao Tome and PrincipeGDP,1.7101339480000002,1
+270,SurinameSuicideRate,22.8,0
+271,SurinameGDP,5.606712075000001,1
+272,SloveniaSuicideRate,18.6,0
+273,SloveniaGDP,21.61757985,1
+274,SwedenSuicideRate,14.8,0
+275,SwedenGDP,51.617540350000006,1
+276,EswatiniSuicideRate,13.3,0
+277,EswatiniGDP,3.426826597,1
+278,SeychellesSuicideRate,9.3,0
+279,SeychellesGDP,15.077839019999999,1
+280,Syrian Arab RepublicSuicideRate,1.9,0
+281,Syrian Arab RepublicGDP,,1
+282,ChadSuicideRate,8.8,0
+283,ChadGDP,0.6929785958,1
+284,TogoSuicideRate,9.6,0
+285,TogoGDP,0.5878744094,1
+286,ThailandSuicideRate,14.4,0
+287,ThailandGDP,5.978611454,1
+288,TajikistanSuicideRate,2.5,0
+289,TajikistanGDP,0.8025180041,1
+290,TurkmenistanSuicideRate,6.7,0
+291,TurkmenistanGDP,6.389548408,1
+292,Timor-LesteSuicideRate,4.6,0
+293,Timor-LesteGDP,2.053273798,1
+294,TongaSuicideRate,3.5,0
+295,TongaGDP,3.9661565200000006,1
+296,Trinidad and TobagoSuicideRate,13.6,0
+297,Trinidad and TobagoGDP,15.786120519999999,1
+298,TunisiaSuicideRate,3.4,0
+299,TunisiaGDP,3.698565075,1
+300,TurkeySuicideRate,7.3,0
+301,TurkeyGDP,10.820633840000001,1
+302,UgandaSuicideRate,9.9,0
+303,UgandaGDP,0.6087057350999999,1
+304,UkraineSuicideRate,22.4,0
+305,UkraineGDP,2.1877319969999998,1
+306,UruguaySuicideRate,18.4,0
+307,UruguayGDP,15.387144030000002,1
+308,United States of AmericaSuicideRate,15.3,0
+309,United States of AmericaGDP,57.90420196000001,1
+310,UzbekistanSuicideRate,7.4,0
+311,UzbekistanGDP,2.567799418,1
+312,VanuatuSuicideRate,4.5,0
+313,VanuatuGDP,2.830965284,1
+314,SamoaSuicideRate,4.4,0
+315,SamoaGDP,4.043694,1
+316,South AfricaSuicideRate,11.6,0
+317,South AfricaGDP,5.272627749000001,1
+318,ZambiaSuicideRate,6.1,0
+319,ZambiaGDP,1.2805784470000001,1
+320,ZimbabweSuicideRate,10.7,0
+321,ZimbabweGDP,1.464583529,1
