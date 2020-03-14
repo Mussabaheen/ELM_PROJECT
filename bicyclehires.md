@@ -9,40 +9,31 @@ import VegaLite exposing (..)
 ```
 
 ```elm {v}
-attendance : Spec
-attendance =
+myFirstVis : Spec
+myFirstVis =
     let
-        cfg =
-            configure
-                << configuration (coView [ vicoStroke Nothing ])
-                << configuration (coAxis [ axcoTicks False, axcoDomain False, axcoLabelAngle 0 ])
+      sel =
+        selection
+            << select "picked" seSingle []
 
-        data =
-            dataFromUrl "https://gicentre.github.io/data/attendance.csv"
+      enc =
+        encoding
+            << position X [ pName "CountryName", pNominal ]
+            << position Y [ pName "sucideandgdp", pQuant]
+            << color
+                [ mSelectionCondition (selectionName "picked")
+                      [ mName "GDPorSUCIDE", mNominal ]
+                    [ mStr "grey" ]
+                ]
+            <<tooltips [[  tName "CountryName",tNominal,tTitle "Country Name: "],[tName "sucideandgdp",tNominal,tTitle "SUCIDE(Orange)&GDP(Blue):"]]
 
-        enc =
-            encoding
-                << position X [ pName "session", pOrdinal ]
-                << position Y
-                    [ pName "attendance"
-                    , pQuant
-                    , pStack stCenter -- Stacked from the centre not bottom.
-                    , pAxis []
-                    ]
-                << detail [ dName "id", dNominal ]
-                << color [ mName "cohort", mOrdinal, mScale [ scScheme "dark2" [] ] ]
     in
-    toVegaLite
-        [ width 600
-        , height 300
-        , cfg []
-        , data [ parse [ ( "session", foNum ) ] ] -- Ensure 'session' column treated as number
-        , enc []
-        , area
-            [ maLine (lmMarker []) -- Add lines around each area 'stream'
-            , maInterpolate miMonotone -- Monotone interpolation gives curved lines
-            ]
-        ]
+      toVegaLite
+      [ dataFromUrl "https://raw.githubusercontent.com/Mussabaheen/ELM_PROJECT/master/cleaned_2016_GDP_SUCIDE_done.csv" []
+    , bar []
+    , enc []
+    , sel []
+      ]
 ```
 
 ```
